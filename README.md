@@ -1,2 +1,2 @@
 # SSC-Smart-KP
-Link Source Vercel: ssc-telu-ai.duckdns.org
+Link Source Vercel: https://ssc-telu-ai.duckdns.org/
